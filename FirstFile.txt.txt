@@ -1,1 +1,3 @@
-This is the first file saved in git project/directory called as "Training"
+This is the first file saved in git project/directory called as "Training".
+
+This the second line added.
